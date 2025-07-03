@@ -8,7 +8,7 @@
 body{
    
     height: 100vh;
-    background-color:rgb(0, 0, 0);
+    background-color:rgb(24, 24, 24);
 }
 
 
@@ -73,7 +73,7 @@ th,td{
 .pop-up{
     width: 60%;
     height: 20rem;
-    background-color: rgba(36, 36, 36, 0.432);
+    background-color: rgba(36, 36, 36, 0.552);
     backdrop-filter: blur(10px);
     border-radius: 1rem;
     opacity: 0;
@@ -94,7 +94,7 @@ th,td{
     width: 100%;
     height: 100%;
     font-size: 1rem;
-    color: antiquewhite;
+    color: white;
     display: flex;
     flex-direction: column;
     position: relative;

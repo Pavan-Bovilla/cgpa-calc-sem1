@@ -51,6 +51,7 @@ document.getElementById("btn").onclick=function(){
       if(respcheck===0){
       document.getElementById('info').textContent='Your CGPA is:';
       document.getElementById('cgpa').textContent=''+cgpa;
+      gradepoints=0
       }
       else{
       document.getElementById('info').textContent='Check your grades and try again';
